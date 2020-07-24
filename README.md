@@ -1,5 +1,11 @@
 ![Message DB](http://docs.eventide-project.org/message-db-logo-90x105.png)
 
+# TODO to install on CleverCloud
+Before launching database/install.sh, install psql first (postgre tooling).
+
+Alter install.sh to work on a remote DB.
+
+
 # Message DB
 
 **Microservice Native Event Store and Message Store for Postgres**
